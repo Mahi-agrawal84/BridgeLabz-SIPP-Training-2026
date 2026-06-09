@@ -11,12 +11,12 @@ public class RaviCodingguild {
         int bonusInt = (int) annualBonus;
 
         System.out.println("Welcome Card");
-        System.out.println("Name           : " + name);
-        System.out.println("Age            : " + age);
-        System.out.println("Rank           : " + rank);
-        System.out.println("Salary         : " + salary);
+        System.out.println("Name : " + name);
+        System.out.println("Age : " + age);
+        System.out.println("Rank : " + rank);
+        System.out.println("Salary : " + salary);
         System.out.println("Membership Fee : " + membershipFee);
-        System.out.println("Annual Bonus   : " + bonusInt);
+        System.out.println("Annual Bonus  : " + bonusInt);
         System.out.println("");
     }
 }
